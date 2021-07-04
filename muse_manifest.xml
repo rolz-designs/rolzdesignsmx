@@ -1,0 +1,378 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.rolzdesignsmx.com" resolutions="1x" timestamp="1625377488271">
+  <folder name="css">
+    <file name="site_global.css" crc="33680296"/>
+    <file name="index.css" crc="418776385" ref="index"/>
+    <file name="nomq_index.css" crc="457273980" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="poppins-medium-webfont.woff" crc="4035890571"/>
+    <file name="poppins-medium-webfont.eot" crc="3764386947"/>
+    <file name="poppins-medium-webfont.svg" crc="252026843"/>
+    <file name="poppins-lightitalic-webfont.woff" crc="4122842958"/>
+    <file name="poppins-lightitalic-webfont.eot" crc="3855163247"/>
+    <file name="poppins-lightitalic-webfont.svg" crc="249658996"/>
+    <file name="poppins-light-webfont.woff" crc="3959721334"/>
+    <file name="poppins-light-webfont.eot" crc="470836707"/>
+    <file name="poppins-light-webfont.svg" crc="3921878457"/>
+    <file name="poppins-extralightitalic-webfont.woff" crc="3774196480"/>
+    <file name="poppins-extralightitalic-webfont.eot" crc="4020639225"/>
+    <file name="poppins-extralightitalic-webfont.svg" crc="3793545701"/>
+    <file name="poppins-black-webfont.woff" crc="4121220118"/>
+    <file name="poppins-black-webfont.eot" crc="284885386"/>
+    <file name="poppins-black-webfont.svg" crc="60334355"/>
+    <file name="poppins-extrabold-webfont.woff" crc="16005105"/>
+    <file name="poppins-extrabold-webfont.eot" crc="3928380346"/>
+    <file name="poppins-extrabold-webfont.svg" crc="3914942809"/>
+    <file name="poppins-extrabolditalic-webfont.woff" crc="363422453"/>
+    <file name="poppins-extrabolditalic-webfont.eot" crc="3804126723"/>
+    <file name="poppins-extrabolditalic-webfont.svg" crc="3800118357"/>
+    <file name="poppins-bold-webfont.woff" crc="3917288251"/>
+    <file name="poppins-bold-webfont.eot" crc="4117606089"/>
+    <file name="poppins-bold-webfont.svg" crc="187823841"/>
+  </folder>
+  <folder name="assets">
+    <file name="cv-tro-02.jpg" crc="4250606939" seo="true" mt="1625376766000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1116.php" crc="106666588" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3862469331" ref="index"/>
+    <file name="patron-portafolio-az_mesa de trabajo 1.jpg" crc="13027913" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r-rd.png" crc="456817656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09433.jpg" crc="445680533" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r-rd-blanco.png" crc="282461132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tex-portafolio.jpg" crc="104165172" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_arrow_3350368.svg" crc="404889181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_arrow_3350368_poster_.png" crc="465448650" ref="index"/>
+    <file name="rd_mesa de trabajo 1.jpg" crc="418473980" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_arrow_3350366.svg" crc="226737490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noun_arrow_3350366_poster_.png" crc="4116086501" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="rolzd-03.jpg" crc="3917797761" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="postes-022.png" crc="518806056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotocv-rolz.png" crc="3950635448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="postes-02.png" crc="3863266685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stars.png" crc="4110116166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="postes-011.png" crc="3861313410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409-crop-u974.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u702.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u704.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts312x234.jpg" crc="4002466870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed312x234.jpg" crc="4281062447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09440312x234.jpg" crc="194563846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409.jpg" crc="9299647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga.jpg" crc="4027318136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u685.jpg" crc="174431586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts-crop-u681.jpg" crc="3942210823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed-crop-u683.jpg" crc="97221996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09440.jpg" crc="447153912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc09433-u455-fr.jpg" crc="27465697" ref="index"/>
+    <file name="tex-portafolio-u574-fr.jpg" crc="234044916" ref="index"/>
+    <file name="dsc09409-crop-u9742.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u7022.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u7042.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u6852.jpg" crc="174431586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts-crop-u6812.jpg" crc="3942210823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed-crop-u6832.jpg" crc="97221996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patron-portafolio-az_mesa de trabajo 1-u345-fr.jpg" crc="271327424" ref="index"/>
+    <file name="dsc09433-u455-fr2.jpg" crc="4104431393" ref="index"/>
+    <file name="patron-portafolio-az_mesa de trabajo 1-u637-fr.jpg" crc="131506558" ref="index"/>
+    <file name="dsc09409-crop-u9743.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u7023.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u7043.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u6853.jpg" crc="4191631007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts727x546.jpg" crc="270944372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed727x546.jpg" crc="3789043668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patron-portafolio-az_mesa de trabajo 1-u637-fr2.jpg" crc="3940751350" ref="index"/>
+    <file name="noun_menu_1563932.svg" crc="3904936269" ref="index"/>
+    <file name="noun_menu_1563932_poster_u2252.png" crc="4218099820" ref="index"/>
+    <file name="noun_close_659811.svg" crc="3783550273" ref="index"/>
+    <file name="noun_close_659811_poster_u2260.png" crc="4003240974" ref="index"/>
+    <file name="fotocv-rolz438x328.png" crc="261112787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409-crop-u9744.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u7024.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u7044.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409207x276.jpg" crc="3975654563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u6854.jpg" crc="4191631007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts-crop-u6813.jpg" crc="3908978912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed-crop-u6833.jpg" crc="392145210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="patron-portafolio-az_mesa de trabajo 1-u637-fr3.jpg" crc="3940994306" ref="index"/>
+    <file name="fotocv-rolz333x250.png" crc="441961304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409-crop-u9745.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u7025.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u7045.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409157x209.jpg" crc="117419571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u6855.jpg" crc="475885562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts-crop-u6814.jpg" crc="3832272856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed-crop-u6834.jpg" crc="215002508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09440430x322.jpg" crc="444741922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409-crop-u9746.jpg" crc="3781677065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tipograma-gaga-crop-u7026.jpg" crc="61602397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit-crop-u7046.jpg" crc="121029559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09409164x218.jpg" crc="4257344369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6193-edit366x548.jpg" crc="256175977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage-bts-crop-u6815.jpg" crc="3836509341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc01076-ed-crop-u6835.jpg" crc="4183813036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc09440-crop-u689.jpg" crc="248709552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4201625523" seo="true" mt="1625377465106" redirect="true"/>
+</manifest>
